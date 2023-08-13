@@ -1,2 +1,4 @@
 Hi this is just for test , now did some change
 now we made new branch
+
+tis a is done in order to lern more about git
